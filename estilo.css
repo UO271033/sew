@@ -1,0 +1,42 @@
+body {
+      background-color: #818181;
+      font: 400 15px Tahoma; /*Familia sans-serif*/
+      line-height: 1.8;
+      color: #ffffff;
+  }
+header {
+      background-color:#000000; 
+      color: #fff;
+      text-transform: uppercase;
+      padding: 20px 30px;
+      text-align: center;     
+  }
+nav {
+    background-color: #696969;
+    display: block;
+}
+section {
+      padding-right: 30px;
+}
+table, th, td {
+  align-self: center;
+  border: 1px solid white;
+}
+figure > img {
+  width: 20em;
+  height: 23em;
+}
+video {
+  width: 100%;
+  height: 100%;
+}
+footer {
+  background-color: #696969;
+  display: block;
+}
+h2 {
+  text-align: center;
+}
+figure {
+  display: inline-block;
+}
