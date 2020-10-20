@@ -12,6 +12,7 @@ header {
       text-align: center;     
   }
 nav {
+    text-align: center;
     background-color: #ffffff;
     display: block;
 }
@@ -31,6 +32,7 @@ video {
   height: 100%;
 }
 footer {
+  text-align: center;
   color: #000000;
   background-color: #ffffff;
   display: block;
