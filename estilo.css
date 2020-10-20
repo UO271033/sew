@@ -1,5 +1,5 @@
 body {
-      background-color: #818181;
+      background-color: #ff0000;
       font: 400 15px Tahoma; /*Familia sans-serif*/
       line-height: 1.8;
       color: #ffffff;
@@ -12,7 +12,7 @@ header {
       text-align: center;     
   }
 nav {
-    background-color: #696969;
+    background-color: #ffcccc;
     display: block;
 }
 section {
@@ -31,7 +31,7 @@ video {
   height: 100%;
 }
 footer {
-  background-color: #696969;
+  background-color: #ffcccc;
   display: block;
 }
 h2 {
